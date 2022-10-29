@@ -1,2 +1,2 @@
 # nslibs
-network secure libs
+network secure libs for my own projects
